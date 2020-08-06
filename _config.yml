@@ -23,7 +23,7 @@ name                     : "Junho Choi Test"
 description              : "Test Page"
 url                      : "https://rooney-choi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "Rooney-Choi/rooney-choi.github.io"
 teaser                   : "/assets/images/SOSLAB_Signature.jpg"
 logo                     : "/assets/images/SOSLAB_Signature.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
