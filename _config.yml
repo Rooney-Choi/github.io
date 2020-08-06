@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Junho Choi"
+  name             : "SOSLAB"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Test Page"
+  bio              : " "
   location         : "Somewhere"
   email            :
   links:
