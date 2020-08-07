@@ -279,3 +279,14 @@ defaults:
       comments: # true
       share: true
       related: true
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "your-disqus-shortname"
+
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "UA-1234567-8"
+    anonymize_ip: false # default
