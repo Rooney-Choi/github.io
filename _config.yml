@@ -33,6 +33,8 @@ comments:
   provider: "disqus"
   disqus:
     shortname: "your-disqus-shortname"
+    disqus_url: http://disqus.com/by/rooneychoi
+    disqus_id: @rooneychoi
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
